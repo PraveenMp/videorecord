@@ -6,4 +6,5 @@ Live Application https://praveenmp.github.io/app/
   1. Download to source code 
   2. Navigate to source folder in the Node command prompt
   3. run http-server.. In case if you don't have http-server install using npm install http-server -g
-  4. Your should be able to run  your application in your localhosr server. Check the port number in the command line
+  4. Your should be able to run  your application in your localhost. Check the port number in the command line
+  5. Open browser and run localhost:8080
